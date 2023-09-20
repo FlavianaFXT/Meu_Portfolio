@@ -1,6 +1,6 @@
 # Meu_Portfolio
 
-Projeto guiado elaborado no final do módulo de React.js do curso de Front End da <img src="src/assets/reprograma-fundos-claros.png" alt="logo reprograma" width="200">
+Projeto guiado elaborado no final do módulo de React.js do curso de Front End da <img src="src/assets/reprograma-fundos-claros.png" alt="logo reprograma" width="200"> , cujo objetivo era criar um site - portfólio pessoal.
 
 ### Quem é Flaviana?
 
