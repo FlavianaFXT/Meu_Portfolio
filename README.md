@@ -6,7 +6,7 @@ Projeto guiado elaborado no final do módulo de React.js do curso de Front End d
 
   - [APRESENTAÇÃO](#Apresentação)
      
-   - [DESCRIÇÃO DO PROJETO](#-🧠-Descrição-do-projeto)
+   - [DESCRIÇÃO DO PROJETO](#Descrição-do-projeto)
      
 # APRESENTAÇÃO
 ### Quem é Flaviana?
