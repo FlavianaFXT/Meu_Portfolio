@@ -2,6 +2,13 @@
 
 Projeto guiado elaborado no final do módulo de React.js do curso de Front End da <img src="src/assets/reprograma-fundos-claros.png" alt="logo reprograma" width="200"> , cujo objetivo era criar um site - portfólio pessoal.
 
+## Índice:
+
+  - [APRESENTAÇÃO](#Apresentação)
+     
+   - [DESCRIÇÃO DO PROJETO](#-🧠-Descrição-do-projeto)
+     
+# Apresentação
 ### Quem é Flaviana?
 
 ![image](https://github.com/FlavianaFXT/ProjetoFinal-reprograma/assets/113718720/1e13d5e7-b1b4-4701-a689-ec293ec77ea1)
@@ -16,7 +23,7 @@ Flaviana Ferraz é uma sertaneja de Pernambuco morando no sertão da Paraiba, fo
 - [GitHub](https://github.com/flavianafxt)
 
 
-## 🧠 DESCRIÇÃO DO PROJETO
+# 🧠 DESCRIÇÃO DO PROJETO
 
 ## 🧠 Contexto
 
