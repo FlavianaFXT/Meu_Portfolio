@@ -8,7 +8,7 @@ Projeto guiado elaborado no final do módulo de React.js do curso de Front End d
      
    - [DESCRIÇÃO DO PROJETO](#-🧠-Descrição-do-projeto)
      
-# Apresentação
+# APRESENTAÇÃO
 ### Quem é Flaviana?
 
 ![image](https://github.com/FlavianaFXT/ProjetoFinal-reprograma/assets/113718720/1e13d5e7-b1b4-4701-a689-ec293ec77ea1)
@@ -23,7 +23,7 @@ Flaviana Ferraz é uma sertaneja de Pernambuco morando no sertão da Paraiba, fo
 - [GitHub](https://github.com/flavianafxt)
 
 
-# 🧠 DESCRIÇÃO DO PROJETO
+# DESCRIÇÃO DO PROJETO
 
 ## 🧠 Contexto
 
