@@ -5,14 +5,8 @@ Projeto guiado elaborado no final do módulo de React.js do curso de Front End d
 ## Índice:
 
   - [APRESENTAÇÃO](#Apresentação)
-
-  - [Quem é Flaviana?](###Quem-É-Flaviana)
-
-  - [Contatos](##Contatos)
      
   - [DESCRIÇÃO DO PROJETO](#Descrição-Do-Projeto)
-
-  - [Contexto](##Contexto)
     
   - [Estrutura do Projeto](##Estrutura-Do-Projeto)
     
