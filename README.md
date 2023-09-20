@@ -5,8 +5,29 @@ Projeto guiado elaborado no final do módulo de React.js do curso de Front End d
 ## Índice:
 
   - [APRESENTAÇÃO](#Apresentação)
+
+     - [Quem é Flaviana?](###Quem-É-Flaviana-?)
+
+     - [Contatos](###Contatos)
      
    - [DESCRIÇÃO DO PROJETO](#Descrição-Do-Projeto)
+
+      - [Contexto](##Contexto)
+    
+      - [Estrutura do Projeto](##Estrutura-Do-Projeto)
+    
+      - [TECNOLOGIAS UTILIZADAS](##Tecnologias-Utilizadas)
+     
+   - [PASSO A PASSO UTILIZADO](#Passo-A-Passo-Utilizado)
+
+   - [FUNCIONALIDADES IMPLEMENTADAS](#Funcionalidades-Implementadas)
+
+   - [IMPLEMNETAÇÔES FUTURAS](#Implementações-Futuras)
+
+   - [COMO RODAR O PROJETO](##Como-Rodar-O-Projeto)
+
+   - [CONFIRA O RESULTADO](###Confira-O-Resultado)
+
      
 # APRESENTAÇÃO
 ### Quem é Flaviana?
@@ -16,7 +37,7 @@ Projeto guiado elaborado no final do módulo de React.js do curso de Front End d
 
 Flaviana Ferraz é uma sertaneja de Pernambuco morando no sertão da Paraiba, formada em Gestão Ambiental e Mestre em Recursos Hídricos, após mais de 10 anos de formada, aos 34 anos, decidiu fazer transição de carreira. Hoje, empreendedora e aluna {reprograma} trilhando os caminhos do Desenvolvimento FrontEnd.
 
-#### Contatos
+### Contatos
 
 - [E-mail](flaviferraz@yahoo.com.br)
 - [LinkedIn](https://www.linkedin.com/in/flaviana-ferraz-frontend)
@@ -25,7 +46,7 @@ Flaviana Ferraz é uma sertaneja de Pernambuco morando no sertão da Paraiba, fo
 
 # DESCRIÇÃO DO PROJETO
 
-## 🧠 Contexto
+## Contexto
 
 O objetivo desse projeto era elaborar um Portfólio pessoal utilizando o React.js.
 
@@ -57,7 +78,7 @@ O objetivo desse projeto era elaborar um Portfólio pessoal utilizando o React.j
 
 Foi utilizada ainda a estrutura de componentes para compor partes das páginas com maior facilidade.
 
-## 🧠 Estrutura do projeto
+## Estrutura do projeto
 
 ![image](https://github.com/FlavianaFXT/Meu_Portfolio/assets/113718720/3d41ce66-aa76-4b0a-bbad-cb288d9a877c)  
 
@@ -66,7 +87,8 @@ Foi utilizada ainda a estrutura de componentes para compor partes das páginas c
 ![image](https://github.com/FlavianaFXT/Meu_Portfolio/assets/113718720/933834f4-7267-4ede-99bd-af3db0e9cb10)
 
 
-## 🧠TECNOLOGIAS UTILIZADAS
+## TECNOLOGIAS UTILIZADAS
+
 | Ferramenta | Descrição |
 | --- | --- |
 | `ReactJS` | framework web|
@@ -81,7 +103,7 @@ Foi utilizada ainda a estrutura de componentes para compor partes das páginas c
 | `Vercel` | Hospedagem para a aplicação, fiz o deploy integrado com o github|
   
 
-## 🧠 PASSO A PASSO UTILIZADO
+# PASSO A PASSO UTILIZADO
 
 1️⃣ Criação de repositorio no github e clone na maquina em que trabalhei no projeto através do Git Bash
 2️⃣ Start do projeto na maquina utilizando o VS Code e seu terminal, atraves dos comandos de iniciação vite e node
@@ -130,7 +152,7 @@ Foi utilizada ainda a estrutura de componentes para compor partes das páginas c
 1️⃣ 0️⃣ Deploy do projeto no Vercel
 
 
-## 🧠 FUNCIONALIDADES IMPLEMENTADAS
+# FUNCIONALIDADES IMPLEMENTADAS
 
 ✔️ Utilização do Router para navegação entre páginas
 
@@ -142,11 +164,12 @@ Foi utilizada ainda a estrutura de componentes para compor partes das páginas c
 
 ✔️ Responsividade
 
-## 🧠 IMPLEMENTAÇÕES FUTURAS
+# IMPLEMENTAÇÕES FUTURAS
+
 - [ ] Acessibilidade
 
 
-## 🧠 COMO RODAR O PROJETO
+## COMO RODAR O PROJETO
 
 Para rodar esse projeto em sua máquina, siga os passos a seguir:
 
@@ -166,7 +189,7 @@ Para rodar esse projeto em sua máquina, siga os passos a seguir:
 
 O navegador será aberto automaticamente usando a porta localhost:3000 
   
-### 🧠 CONFIRA O RESULTADO: https://meu-portfolio-lvu6upayj-flavianafxt.vercel.app/
+### CONFIRA O RESULTADO: https://meu-portfolio-lvu6upayj-flavianafxt.vercel.app/
 
 
   
