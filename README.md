@@ -22,7 +22,7 @@ Projeto guiado elaborado no final do módulo de React.js do curso de Front End d
 
    - [FUNCIONALIDADES IMPLEMENTADAS](#Funcionalidades-Implementadas)
 
-   - [IMPLEMNETAÇÔES FUTURAS](#Implementações-Futuras)
+   - [IMPLEMENTAÇÕES FUTURAS](#Implementações-Futuras)
 
    - [COMO RODAR O PROJETO](##Como-Rodar-O-Projeto)
 
