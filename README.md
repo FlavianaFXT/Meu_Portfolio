@@ -6,25 +6,25 @@ Projeto guiado elaborado no final do módulo de React.js do curso de Front End d
 
   - [APRESENTAÇÃO](#Apresentação)
 
-     - [Quem é Flaviana?](###Quem-É-Flaviana)
+  - [Quem é Flaviana?](###Quem-É-Flaviana)
 
-     - [Contatos](##Contatos)
+  - [Contatos](##Contatos)
      
-   - [DESCRIÇÃO DO PROJETO](#Descrição-Do-Projeto)
+  - [DESCRIÇÃO DO PROJETO](#Descrição-Do-Projeto)
 
-      - [Contexto](##Contexto)
+  - [Contexto](##Contexto)
     
-      - [Estrutura do Projeto](##Estrutura-Do-Projeto)
+  - [Estrutura do Projeto](##Estrutura-Do-Projeto)
     
-      - [TECNOLOGIAS UTILIZADAS](##Tecnologias-Utilizadas)
+  - [TECNOLOGIAS UTILIZADAS](##Tecnologias-Utilizadas)
      
-   - [PASSO A PASSO UTILIZADO](#Passo-A-Passo-Utilizado)
+  - [PASSO A PASSO UTILIZADO](#Passo-A-Passo-Utilizado)
 
-   - [FUNCIONALIDADES IMPLEMENTADAS](#Funcionalidades-Implementadas)
+  - [FUNCIONALIDADES IMPLEMENTADAS](#Funcionalidades-Implementadas)
 
-   - [IMPLEMENTAÇÕES FUTURAS](#Implementações-Futuras)
+  - [IMPLEMENTAÇÕES FUTURAS](#Implementações-Futuras)
 
-   - [COMO RODAR O PROJETO](##Como-Rodar-O-Projeto)
+  - [COMO RODAR O PROJETO](##Como-Rodar-O-Projeto)
 
    - [CONFIRA O RESULTADO](###Confira-O-Resultado)
 
