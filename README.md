@@ -6,9 +6,9 @@ Projeto guiado elaborado no final do módulo de React.js do curso de Front End d
 
   - [APRESENTAÇÃO](#Apresentação)
 
-     - [Quem é Flaviana?](###Quem-É-Flaviana-?)
+     - [Quem é Flaviana?](###Quem-É-Flaviana)
 
-     - [Contatos](###Contatos)
+     - [Contatos](##Contatos)
      
    - [DESCRIÇÃO DO PROJETO](#Descrição-Do-Projeto)
 
@@ -37,7 +37,7 @@ Projeto guiado elaborado no final do módulo de React.js do curso de Front End d
 
 Flaviana Ferraz é uma sertaneja de Pernambuco morando no sertão da Paraiba, formada em Gestão Ambiental e Mestre em Recursos Hídricos, após mais de 10 anos de formada, aos 34 anos, decidiu fazer transição de carreira. Hoje, empreendedora e aluna {reprograma} trilhando os caminhos do Desenvolvimento FrontEnd.
 
-### Contatos
+## Contatos
 
 - [E-mail](flaviferraz@yahoo.com.br)
 - [LinkedIn](https://www.linkedin.com/in/flaviana-ferraz-frontend)
