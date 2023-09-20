@@ -8,9 +8,7 @@ Projeto guiado elaborado no final do módulo de React.js do curso de Front End d
      
   - [DESCRIÇÃO DO PROJETO](#Descrição-Do-Projeto)
     
-  - [Estrutura do Projeto](##Estrutura-Do-Projeto)
-    
-  - [TECNOLOGIAS UTILIZADAS](##Tecnologias-Utilizadas)
+  - [TECNOLOGIAS UTILIZADAS](#Tecnologias-Utilizadas)
      
   - [PASSO A PASSO UTILIZADO](#Passo-A-Passo-Utilizado)
 
@@ -18,9 +16,9 @@ Projeto guiado elaborado no final do módulo de React.js do curso de Front End d
 
   - [IMPLEMENTAÇÕES FUTURAS](#Implementações-Futuras)
 
-  - [COMO RODAR O PROJETO](##Como-Rodar-O-Projeto)
+  - [COMO RODAR O PROJETO](#Como-Rodar-O-Projeto)
 
-   - [CONFIRA O RESULTADO](###Confira-O-Resultado)
+   - [CONFIRA O RESULTADO](#Confira-O-Resultado)
 
      
 # APRESENTAÇÃO
@@ -81,7 +79,7 @@ Foi utilizada ainda a estrutura de componentes para compor partes das páginas c
 ![image](https://github.com/FlavianaFXT/Meu_Portfolio/assets/113718720/933834f4-7267-4ede-99bd-af3db0e9cb10)
 
 
-## TECNOLOGIAS UTILIZADAS
+# TECNOLOGIAS UTILIZADAS
 
 | Ferramenta | Descrição |
 | --- | --- |
@@ -163,7 +161,7 @@ Foi utilizada ainda a estrutura de componentes para compor partes das páginas c
 - [ ] Acessibilidade
 
 
-## COMO RODAR O PROJETO
+# COMO RODAR O PROJETO
 
 Para rodar esse projeto em sua máquina, siga os passos a seguir:
 
@@ -183,7 +181,7 @@ Para rodar esse projeto em sua máquina, siga os passos a seguir:
 
 O navegador será aberto automaticamente usando a porta localhost:3000 
   
-### CONFIRA O RESULTADO: https://meu-portfolio-lvu6upayj-flavianafxt.vercel.app/
+# CONFIRA O RESULTADO: https://meu-portfolio-lvu6upayj-flavianafxt.vercel.app/
 
 
   
