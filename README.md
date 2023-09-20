@@ -18,7 +18,7 @@ Projeto guiado elaborado no final do módulo de React.js do curso de Front End d
 
   - [COMO RODAR O PROJETO](#Como-Rodar-O-Projeto)
 
-   - [CONFIRA O RESULTADO](#Confira-O-Resultado)
+  - [CONFIRA O RESULTADO](#Confira-O-Resultado)
 
      
 # APRESENTAÇÃO
