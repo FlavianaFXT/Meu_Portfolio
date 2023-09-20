@@ -20,16 +20,33 @@ Flaviana Ferraz é uma sertaneja de Pernambuco morando no sertão da Paraiba, fo
 
 ## 🧠 Contexto
 
-O objetivo foi elaborar um Portfólio pessoal utilizando o React.js.
+O objetivo desse projeto era elaborar um Portfólio pessoal utilizando o React.js.
 
----IMAGEM DO SITE---
+![image](https://github.com/FlavianaFXT/Meu_Portfolio/assets/113718720/0bfe407d-0fa2-4d8f-a508-91a89e88591c)
+
 
 ## O site contem 4 páginas:
 
 * Home
+![image](https://github.com/FlavianaFXT/Meu_Portfolio/assets/113718720/1006de23-bf3a-4bb1-ae00-b8752eac4886)
+
 * Sobre
+ ![image](https://github.com/FlavianaFXT/Meu_Portfolio/assets/113718720/1d2595fe-cc74-4cb4-9fb1-3875d4a95c10)
+
+  ![image](https://github.com/FlavianaFXT/Meu_Portfolio/assets/113718720/0d3b2087-56c8-45d9-ad91-0e6be502508f)
+
 * Portfólio
+  ![image](https://github.com/FlavianaFXT/Meu_Portfolio/assets/113718720/4326a2a3-7416-4b91-93ae-d60a7672dbb2)
+
+![image](https://github.com/FlavianaFXT/Meu_Portfolio/assets/113718720/3940d720-0d48-44e1-8c4d-121bd046e187)
+
+![image](https://github.com/FlavianaFXT/Meu_Portfolio/assets/113718720/23c1aba6-7a63-45b0-a4f3-bf2fe959bf24)
+
 * Contato
+  ![image](https://github.com/FlavianaFXT/Meu_Portfolio/assets/113718720/3dae43a1-25d9-4b36-a52a-2a0b602a2114)
+
+![image](https://github.com/FlavianaFXT/Meu_Portfolio/assets/113718720/c5b63afc-e916-40ab-ab40-d5df0e2375f3)
+
 
 Foi utilizada ainda a estrutura de componentes para compor partes das páginas com maior facilidade.
 
@@ -40,7 +57,6 @@ Foi utilizada ainda a estrutura de componentes para compor partes das páginas c
 ![image](https://github.com/FlavianaFXT/Meu_Portfolio/assets/113718720/73844913-23c0-47d4-885f-800e84ff096e)
 
 ![image](https://github.com/FlavianaFXT/Meu_Portfolio/assets/113718720/933834f4-7267-4ede-99bd-af3db0e9cb10)
-
 
 
 ## 🧠TECNOLOGIAS UTILIZADAS
